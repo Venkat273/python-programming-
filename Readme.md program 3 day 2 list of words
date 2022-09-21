@@ -1,0 +1,7 @@
+n=int(input("enter no of sentences:"))
+L=[]
+M=[]
+For i in range (n):
+    L.append(input())
+    M.append(len(L[i].split()))
+Print (max(m))
